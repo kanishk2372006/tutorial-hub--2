@@ -1,0 +1,15 @@
+.heading{
+    color: rgb(14, 14, 15);
+    text-align: center;
+}
+.grid{
+
+    display: flex;
+    flex-direction: row;
+}
+.img:hover{
+    transform: scale(1.2);
+}
+.img{
+    float: inline-end;
+}
